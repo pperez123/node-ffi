@@ -26,8 +26,8 @@
     "bindings": "^1.5.0",
     "debug": "^4.1.1",
     "nan": "^2.14.0",
-    "ref": "lxe/ref#node-12",
-    "ref-struct": "lxe/ref-struct#node-12"
+    "ref": "pperez123/ref#node-12",
+    "ref-struct": "pperez123/ref-struct#node-12"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
